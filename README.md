@@ -13,4 +13,4 @@ This project implements a dynamic priority queue using a min-heap data structure
 
 ## Technologies Used
 - C++
-- Command-line application
+- Command-line interface
